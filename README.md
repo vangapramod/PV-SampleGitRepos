@@ -1,2 +1,2 @@
 # PV-SampleGitRepos
-Learning Git Repos
+This is learning purpose.
